@@ -1,0 +1,15 @@
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\PesanTaxi.csproj.AssemblyReference.cache
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\PesanTaxi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\PesanTaxi.AssemblyInfoInputs.cache
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\PesanTaxi.AssemblyInfo.cs
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\PesanTaxi.csproj.CoreCompileInputs.cache
+D:\PesanTaxi\PesanTaxi\bin\Debug\net6.0\PesanTaxi.exe
+D:\PesanTaxi\PesanTaxi\bin\Debug\net6.0\PesanTaxi.deps.json
+D:\PesanTaxi\PesanTaxi\bin\Debug\net6.0\PesanTaxi.runtimeconfig.json
+D:\PesanTaxi\PesanTaxi\bin\Debug\net6.0\PesanTaxi.dll
+D:\PesanTaxi\PesanTaxi\bin\Debug\net6.0\PesanTaxi.pdb
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\PesanTaxi.dll
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\refint\PesanTaxi.dll
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\PesanTaxi.pdb
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\PesanTaxi.genruntimeconfig.cache
+D:\PesanTaxi\PesanTaxi\obj\Debug\net6.0\ref\PesanTaxi.dll
